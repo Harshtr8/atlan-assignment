@@ -66,3 +66,6 @@ https://drive.google.com/file/d/1g6s9qdNa6Nqb5TABBXxCRxJtxYRJC1MV/view?usp=drive
 
 #### ER Diagram: 
 https://drive.google.com/file/d/1gBCGNWEt2LDFggPI9Y20bW42SAietrVP/view?usp=drivesdk
+
+#### Explanation Document (PDF):
+https://drive.google.com/file/d/1VNjZlNu0WuTF9UAsXkymKZ5xHoriyWEW/view?usp=drive_link
