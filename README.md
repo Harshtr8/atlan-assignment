@@ -1,36 +1,58 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SQL Query Runner
+
+### This is a Next.js web application that provides a UI to input SQL queries and displays corresponding results using predefined datasets.
+
+
+🔗 **Live Link:** http://atlan-assignment-harsh.vercel.app
+
+## Features
+#### SQL Query Input:
+A text area to enter SQL queries.
+
+#### Predefined Queries & Data:
+Users can toggle between predefined SQL queries and their associated datasets.
+
+#### No Backend Required: 
+The app does not validate or execute SQL queries; it simply displays data.
+
+#### Optimized Performance: 
+The app is designed for quick rendering and smooth UI interactions.
+
+#### Modern UI: 
+Styled with CSS for a clean and intuitive experience.
+
+## Tech Stack
+#### Framework: 
+Next.js
+
+#### Styling: 
+CSS (No Tailwind CSS as per guidelines)
+
+#### Hosting: 
+Vercel
+
+#### State Management: 
+React Hooks
 
 ## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+To run the application locally, use:
+```markdown
+npm run dev 
 ```
+Open http://localhost:3000 in your browser.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+## Performance & Optimizations
+#### Initial Load Time: 
+Optimized using Next.js static rendering.
 
-To learn more about Next.js, take a look at the following resources:
+#### Rendering Efficiency: 
+Uses React state and efficient UI updates.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+#### Handling Large Data: 
+Uses pagination/lazy loading to prevent performance issues.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Demo Video: (Provide link)
