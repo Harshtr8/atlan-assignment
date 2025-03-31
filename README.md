@@ -58,14 +58,14 @@ Uses React state and efficient UI updates.
 #### Handling Large Data: 
 Uses pagination/lazy loading to prevent performance issues.
 
-#### Demo Video: 
+## Demo Video: 
 https://drive.google.com/file/d/1APgOWQXHxLVpxrUvlj1iOnFRD6mWIPAN/view?usp=drive_link
 
-#### Architecture Diagram:
+## Architecture Diagram:
 https://drive.google.com/file/d/1g6s9qdNa6Nqb5TABBXxCRxJtxYRJC1MV/view?usp=drivesdk
 
-#### ER Diagram: 
+## ER Diagram: 
 https://drive.google.com/file/d/1gBCGNWEt2LDFggPI9Y20bW42SAietrVP/view?usp=drivesdk
 
-#### Explanation Document (PDF):
+## Explanation Document (PDF):
 https://drive.google.com/file/d/1VNjZlNu0WuTF9UAsXkymKZ5xHoriyWEW/view?usp=drive_link
